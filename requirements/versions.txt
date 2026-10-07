@@ -1,0 +1,7 @@
+python 3.13.15
+torch 2.11.0+cu130 (CUDA 13.0)
+torchvision 0.26.0+cu130
+numpy 2.1.3
+opencv 4.14.0
+gpu Tesla T4
+yolov5 commit f9578796b8a64889aa9e66dc06914d19f40d338e
