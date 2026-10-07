@@ -1,0 +1,8 @@
+{
+  "seed": 42,
+  "val_fraction_target": 0.15,
+  "method": "group split by ID prefix (first 2 digits); val groups: ['05', '14', '15', '18']",
+  "train_pairs": 10030,
+  "val_pairs": 1995,
+  "overlap": 0
+}

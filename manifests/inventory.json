@@ -1,0 +1,31 @@
+{
+  "vis_train_images": 12025,
+  "ir_train_images": 12025,
+  "paired_train_ids": 12025,
+  "vis_only_ids": [],
+  "ir_only_ids": [],
+  "duplicate_ids_vis": [],
+  "duplicate_ids_ir": [],
+  "pairs_missing_annotation": [],
+  "image_sizes": {
+    "VIS (1280, 1024) / IR (1280, 1024)": 12025
+  },
+  "vis_ir_size_mismatch": [],
+  "official_test_pairs": 3463,
+  "train_test_id_overlap": [],
+  "label_boxes": 34130,
+  "label_empty_images": 2,
+  "label_problems": 5,
+  "xml_class_names": {
+    "person": 34135
+  },
+  "split": {
+    "seed": 42,
+    "val_fraction_target": 0.15,
+    "method": "group split by ID prefix (first 2 digits); val groups: ['05', '14', '15', '18']",
+    "train_pairs": 10030,
+    "val_pairs": 1995,
+    "overlap": 0
+  },
+  "source_archive": "LLVIP.zip"
+}
